@@ -26,7 +26,7 @@ async function NextAuthNextHandler(
 
   const handler = await NextAuthHandler({
     req: {
-      host: detectHost(req.headers["x-forwarded-host"]),
+      host: req.headers["host"],
       body: req.body,
       query,
       cookies: req.cookies,
