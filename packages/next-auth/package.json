@@ -1,9 +1,9 @@
 {
-  "name": "next-auth",
+  "name": "@avegen/next-auth",
   "version": "4.9.0",
   "description": "Authentication for Next.js",
   "homepage": "https://next-auth.js.org",
-  "repository": "https://github.com/nextauthjs/next-auth.git",
+  "repository": "https://github.com/rakesh-avegen/next-auth.git",
   "author": "Iain Collins <me@iaincollins.com>",
   "contributors": [
     "Balázs Orbán <info@balazsorban.com>",
